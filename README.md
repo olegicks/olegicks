@@ -1,3 +1,5 @@
+## Who am I?
+
 Computer Science student in Vienna focused on backend development, software engineering, application security, and cloud systems.
 
 Building practical projects with Python, web technologies, AI, security tooling, and containerized infrastructure.
