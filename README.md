@@ -4,12 +4,6 @@ Computer Science student in Vienna focused on backend development, software engi
 
 Building practical projects with Python, web technologies, AI, security tooling, and containerized infrastructure.
 
-## About
-
-- Computer Science @ University of Vienna
-- Focus: backend development, software engineering, AppSec, and cloud/DevOps
-- Interested in building practical systems and improving real-world engineering skills
-
 ## Skills
 
 **Languages:** Python, Java, C++, JavaScript, TypeScript
