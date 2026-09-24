@@ -23,4 +23,3 @@ Building practical projects with Python, web technologies, AI, security tooling,
 ## How to reach me
 
 Email: **sholeg2005@gmail.com**  
-GitHub: **https://github.com/olegicks**
